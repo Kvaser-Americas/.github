@@ -20,9 +20,9 @@ Extend your CanKing workflow with tools built by our team. Find installation ins
 
 ### CAN Sniffer
 
-Inspect raw CAN traffic in CanKing with a message table, changing-byte highlighting, and live filtering. Identify bytes with two to five distinct values to help explore possible state signals.
+Monitor raw CAN traffic in CanKing with a fixed-position message display that keeps each CAN ID in a consistent row. Highlight changing data bytes, filter messages by CAN ID, and display ASCII alongside hexadecimal data. Message counts, periods, last-change times, and last-received times help you follow bus activity, while options to hide quiet IDs or gray out missing IDs keep the display focused.
 
-![CAN Sniffer running in Kvaser CanKing, showing CAN message IDs, highlighted data bytes, state-byte candidates, message counts, and timing.](https://raw.githubusercontent.com/Kvaser-Americas/.github/main/profile/assets/can-sniffer.png)
+![CAN Sniffer in CanKing, showing fixed-position CAN message rows, highlighted byte changes, ASCII data, message counts, and timing.](https://raw.githubusercontent.com/Kvaser-Americas/.github/main/profile/assets/can-sniffer.png)
 
 *CAN Sniffer running in CanKing.*
 
